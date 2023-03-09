@@ -1,10 +1,10 @@
-package com.example.test;
+package com.itheima.reggie;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TestApplicationTests {
+class ReggieApplicationTests {
 
     @Test
     void contextLoads() {
